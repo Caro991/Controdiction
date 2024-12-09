@@ -18,7 +18,7 @@ body {
     background: url(dr.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: center/cover;
+    background-size: contain
     }
 
 header {
