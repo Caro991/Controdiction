@@ -9,7 +9,7 @@
 
 body {
     height: 100vh;
-    background: url=dr.jpg;
+    background: url(dr.jpg);
 }
 
 header {
